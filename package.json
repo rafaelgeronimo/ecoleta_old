@@ -1,0 +1,27 @@
+{
+  "name": "ecoleta",
+  "version": "1.0.0",
+  "description": "Marketplace de coleta de resíduos. Projeto desenvolvido na Next Level Week da Rocketseat para a semana do Meio Ambiente 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelgeronimo/ecoleta.git"
+  },
+  "keywords": [
+    "rocketseat",
+    "ecoleta",
+    "nlw",
+    "next",
+    "level",
+    "marketplace"
+  ],
+  "author": "Rafael Geronimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelgeronimo/ecoleta/issues"
+  },
+  "homepage": "https://github.com/rafaelgeronimo/ecoleta#readme"
+}
